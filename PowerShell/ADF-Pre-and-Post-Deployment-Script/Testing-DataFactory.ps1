@@ -1,3 +1,5 @@
+Connect-AzAccount
+
 . .\DeployDataFactory.ps1
 
 $templateFile = 'MyArmTemplate.json'
